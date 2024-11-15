@@ -1,0 +1,53 @@
+body {
+    background-color: #f7c2df;
+}
+
+header {
+    background-color: #7486eb;
+    min-height: 70px;
+    text-align: center;
+}
+
+h1 {
+    padding: 25px 0px;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+img {
+    height: 280px;
+    border-radius: 15px;
+}
+
+div.flex-content {
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+    background-color: #131111;
+    font-size: 25px;
+    padding: 20px;
+    justify-content: space-around;
+    color: #ffffff;
+}
+
+span.reputation {
+    color: #beb8b8;
+}
+
+div.flex-content p {
+
+}
+
+div.flex-content h3 {
+    margin-top: 60px;
+}
+
+div.flex-content img {
+
+}
+
+section.classePadrao {
+    background-color: #131111;
+    width: 800px;
+    margin: 0 auto;
+}
